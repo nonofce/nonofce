@@ -11,7 +11,8 @@ Passionate of Android Development, I help you to bring your ideas into mobile wo
 [![Presentation_Patterns](https://img.shields.io/badge/Presentation_Patterns-blue?style=for-the-badge&logo=mvvm&logoColor=white&labelColor=101010)]()
 [![Clean_Architecture](https://img.shields.io/badge/Clean_Architecture-yellowgreen?style=for-the-badge&logo=clean&logoColor=white&labelColor=101010)]()
 [![Dependency_Injection](https://img.shields.io/badge/Dependency_Injection-important?style=for-the-badge&logo=hilt&logoColor=white&labelColor=101010)]()
-[![Testingn](https://img.shields.io/badge/Testing-critical?style=for-the-badge&logo=junit&logoColor=white&labelColor=101010)]()
+[![Testing](https://img.shields.io/badge/Testing-critical?style=for-the-badge&logo=junit&logoColor=white&labelColor=101010)]()
+[![Backendless](https://img.shields.io/badge/Backendless-green?style=for-the-badge&logo=backendless&logoColor=white&labelColor=101010)]()
 
 </p>
 
