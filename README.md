@@ -1,6 +1,6 @@
 # Hi, my name is Nono Francisco Carballo Escalona
 ## Android Engineer
-Pasionate of Android Development, I help you to bring your ideas into mobile world
+Passionate of Android Development, I help you to bring your ideas into mobile world
 
 ## My Skills
 
@@ -13,4 +13,8 @@ Pasionate of Android Development, I help you to bring your ideas into mobile wor
 [![Dependency_Injection](https://img.shields.io/badge/Dependency_Injection-important?style=for-the-badge&logo=hilt&logoColor=white&labelColor=101010)]()
 [![Testingn](https://img.shields.io/badge/Testing-critical?style=for-the-badge&logo=junit&logoColor=white&labelColor=101010)]()
 
+</p>
 
+## My Education
+[![Kotlin_For_Android_Developers](https://img.shields.io/badge/Kotlin_For_Android_Developers-blueviolet?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)](https://kotlinandroides.club.hotmart.com/public/user-certificate/612f5de1-5627-4752-921e-d6b2115b9f5e)
+[![Architect_Coders](https://img.shields.io/badge/Architect_Coders-red?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)](https://members.architectcoders.com/verify-certificate?id=94-158-378-0987)
