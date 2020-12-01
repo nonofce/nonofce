@@ -1,6 +1,6 @@
 # Hi, my name is Nono Francisco Carballo Escalona
 ## Android Engineer
-Passionate of Android Development, I help you to bring your ideas into mobile world
+Passionate of Android Development, I help you to bring your ideas into mobile world.
 
 ## My Skills
 
