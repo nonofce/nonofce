@@ -21,6 +21,12 @@ Passionate of Android Development, I help you to bring your ideas into mobile wo
 [![Room](https://img.shields.io/badge/Room-yellow?style=for-the-badge&logo=room&logoColor=white&labelColor=101010)]()
 [![Retrofit](https://img.shields.io/badge/Retrofit-important?style=for-the-badge&logo=retrofit&logoColor=white&labelColor=101010)]()
 [![Hilt](https://img.shields.io/badge/Hilt-blueviolet?style=for-the-badge&logo=junit&logoColor=white&labelColor=101010)]()
+[![Activity](https://img.shields.io/badge/Activity-yellowgreen?style=for-the-badge&logo=junit&logoColor=white&labelColor=101010)]()
+[![Fragment](https://img.shields.io/badge/Fragment-success?style=for-the-badge&logo=junit&logoColor=white&labelColor=101010)]()
+[![Data_Binding](https://img.shields.io/badge/Data_Binding-informational?style=for-the-badge&logo=junit&logoColor=white&labelColor=101010)]()
+[![Navigation](https://img.shields.io/badge/Navigation-green?style=for-the-badge&logo=junit&logoColor=white&labelColor=101010)]()
+[![Lifecycle](https://img.shields.io/badge/Lifecycle-9cf?style=for-the-badge&logo=junit&logoColor=white&labelColor=101010)]()
+[![Material_Design_Components](https://img.shields.io/badge/Material_Design_Components-blueviolet?style=for-the-badge&logo=junit&logoColor=white&labelColor=101010)]()
 
 </p>
 
