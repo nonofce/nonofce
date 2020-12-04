@@ -18,9 +18,9 @@ Passionate of Android Development, I help you to bring your ideas into mobile wo
 
 ## Libraries
 
-[![Room](https://img.shields.io/badge/Room?style=for-the-badge&logo=room&logoColor=white&labelColor=101010)]()
-[![Retrofit](https://img.shields.io/badge/Retrofit?style=for-the-badge&logo=retrofit&logoColor=white&labelColor=101010)]()
-[![Hilt](https://img.shields.io/badge/Hilt?style=for-the-badge&logo=hiltt&logoColor=white&labelColor=101010)]()
+[![Room](https://img.shields.io/badge/Room-blue?style=for-the-badge&logo=room&logoColor=white&labelColor=101010)]()
+[![Retrofit](https://img.shields.io/badge/Retrofit-blue?style=for-the-badge&logo=retrofit&logoColor=white&labelColor=101010)]()
+[![Testing](https://img.shields.io/badge/Testing-critical?style=for-the-badge&logo=junit&logoColor=white&labelColor=101010)]()
 
 </p>
 
