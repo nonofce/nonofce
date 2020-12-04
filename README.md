@@ -16,6 +16,14 @@ Passionate of Android Development, I help you to bring your ideas into mobile wo
 
 </p>
 
+## Libraries
+
+[![Room](https://img.shields.io/badge/Room?style=for-the-badge&logo=room&logoColor=white&labelColor=101010)]()
+[![Retrofit](https://img.shields.io/badge/Retrofit?style=for-the-badge&logo=retrofit&logoColor=white&labelColor=101010)]()
+[![Hilt](https://img.shields.io/badge/Hilt?style=for-the-badge&logo=hiltt&logoColor=white&labelColor=101010)]()
+
+</p>
+
 ## My Education
 [![Kotlin_For_Android_Developers](https://img.shields.io/badge/Kotlin_For_Android_Developers-blueviolet?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)](https://kotlinandroides.club.hotmart.com/public/user-certificate/612f5de1-5627-4752-921e-d6b2115b9f5e)
 [![Architect_Coders](https://img.shields.io/badge/Architect_Coders-red?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)](https://members.architectcoders.com/verify-certificate?id=94-158-378-0987)
