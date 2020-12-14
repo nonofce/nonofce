@@ -2,7 +2,7 @@
 
 ![https://github.com/nonofce](https://drive.google.com/uc?id=177Vk5gE_08C0mor0oZHUCC6rCBX9et4R)
 
-Passionate of Android Development, I help you to bring your ideas into mobile world. I love to code and learn, focused on new technologies, open source, clean code, and testing.
+Passionate of Android Development, I help you to bring your ideas into mobile world. I love to code and learn, focused on new technologies, open source, clean code, and testing; committed to writing the best possible code every day to build great products.
 
 ## My Skills
 
