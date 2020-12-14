@@ -1,6 +1,6 @@
 # Hi, my name is Nono Francisco Carballo Escalona
 
-![https://github.com/nonofce](https://drive.google.com/uc?id=1AITyiTT-Y6eKuFJmuUYQ0kuL_7jPt_v4)
+![https://github.com/nonofce](https://www.canva.com/design/DAEQTiWQp3w/cH1N_wodVF_lZMoxe4I2kQ/view?utm_content=DAEQTiWQp3w&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
 
 Passionate of Android Development, I help you to bring your ideas into mobile world.
 
